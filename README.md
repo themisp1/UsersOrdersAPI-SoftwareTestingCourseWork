@@ -1,6 +1,6 @@
 # Software Testing 2023-24 Sample Project
-
-**This is the sample test project for Software Testing Course 2023-24 at the University of Edinburgh**.
+TEST
+**This is a fork of the sample test project for Software Testing Course 2023-24 at the University of Edinburgh**.
 
 The project exposes an API related to operations regarding User registration, authentication and usage, allowing a simple order placement of predefined boxes of an imaginary food shop under a limited amount of choices (`Box1` and `Box2`). The system also poses different user access levels (`Admin` and `User`), with elevated permissions to the administrator and respective restrictions to the simple user.
 
